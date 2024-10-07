@@ -1,2 +1,1 @@
-# bitcoin-trading-bot
-Bitcoin futures automated trading bot.")
+I would appreciate feedback on the GIT file I uploaded, whether the code is well-structured, if any corrections are needed, or if there are improvements to be made in terms of strategy or trading techniques. Thanks so much, and I hope everything you do goes well!
